@@ -27,3 +27,6 @@ Result
 
 ![image](https://user-images.githubusercontent.com/67953588/156513186-a6455ea8-f601-4a09-a9b2-9bb76f7417f2.png)
 
+GUI
+
+![image](https://user-images.githubusercontent.com/67953588/156679608-603bdd0a-72f1-42a6-ac0c-4fc4000f15e8.png)
